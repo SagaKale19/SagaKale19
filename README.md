@@ -1,6 +1,6 @@
 - 👋 I'm Sagarika Kale
 - 🔭 I’m interested to work as Full Stack Developer.
-- 🌱 I’m currently learning Java, Python, Frontend, Backend and Database.  
+- 🌱 I’m certified MERN Stack Developer.  
 - 📫 How to reach me: sagarikasachin01@gmail.com
 
 <!--
